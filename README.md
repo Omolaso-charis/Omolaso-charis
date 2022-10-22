@@ -4,4 +4,4 @@ My name is Omolaso. I am a data analyst who is versed in SQL, Excel, PowerBi, Ta
  
 - 🔭 I’m currently working on building projects to showcase my data analytics skills in SQL, Excel, PowerBi, Tableau and Python.
 - 💬 Ask me about everything data, data communities and performance management 
-- 👩🏾‍💻 Connect with me on twitter: https://twitter.com/Dear_Charis, LinkedIn: https://www.linkedin.com/in/omolasoakinruntan
+- 👩🏾‍💻 Connect with me on Twitter: https://twitter.com/Dear_Charis, LinkedIn: https://linkedin.com/in/omolasoakinruntan, Instagram: https://instagram.com/omolaso_charis/
